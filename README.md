@@ -1,14 +1,5 @@
 # Environmental AI Healthcare System
 
-## Our Website Demo
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1P83xKO-T5maU8C2ZnRI6dNnvhwIociz6/view?usp=drive_link">
-    <img alt="Watch Demo Video" src="https://img.shields.io/badge/%E2%96%B6-Watch%20Demo%20Video‑ff69b4?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
-🎬 Click the button above to watch the video!
 ## Project Overview
 The **Environmental AI Healthcare System** is an AI-powered platform that analyzes environmental images and generates context-aware public health advisories. It combines computer vision and retrieval-augmented generation (RAG) to classify environmental conditions and provide actionable healthcare guidance through a web interface.
 
@@ -77,7 +68,7 @@ Environmental_AI_Healthcare_System/
 ### Setup Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/logitechsoumili/Environmental_AI_Healthcare_System.git
+   git clone https://github.com/logitechsabarni/Environmental_AI_Healthcare_System.git
    cd Environmental_AI_Healthcare_System
    ```
 2. Create and activate a virtual environment:
